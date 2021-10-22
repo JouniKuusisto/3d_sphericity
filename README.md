@@ -1,4 +1,4 @@
-# 3d_sphericity
+# 3d Sphericity
 For calculating 3D sphericity of left atrium of human heart in medical imaging. 
 
 This code is built for own academic use and is rough around the edges. It is used to calculate parameters and visualize data for a research paper which is currently submitted for review.
