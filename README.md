@@ -5,4 +5,4 @@ This code is built for own academic use and is rough around the edges. It is use
 
 3D sphericity is (3DS) is our proposal for index of spherecity in medical imaging. Principle is described already in 1935 by H. Wadell in the field of Geology. doi:10.1086/624298
 
-Left atrial sphericity (LASP) is proposed by Bisbal et al. in 2013. This parameter is calculated here per description they provide in supplement of their article.
+Left atrial sphericity (LASP) is proposed by Bisbal et al. in 2013. This parameter is calculated here per description they provide in supplement of their article. doi:10.1111/jce.12116
